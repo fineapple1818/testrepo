@@ -1,5 +1,18 @@
-title: Just the Docs Template
+title: 📉2024 Competition
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://fineapple1818.github.io
+baseurl: ""
+
+navigation_header:
+- title: Home
+  url: /
+- title: Notice
+  url: /notice/
+- title: Timeline
+  url: /timeline/
+- title: Kaggle
+  url: /kaggle/
+- title: Q&A
+  url: /qna/
